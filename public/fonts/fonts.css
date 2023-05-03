@@ -1,0 +1,25 @@
+/* light font weight */
+@font-face {
+    font-family: 'Hubot Sans';
+    src: url(./hubot-sans/Hubot-Sans-Light.woff) format('woff');
+    font-style: normal;
+    font-weight: 300;
+}
+
+
+/* regular font weight */
+@font-face {
+    font-family: 'Hubot Sans';
+    src: url(./hubot-sans/Hubot-Sans-Light.woff) format('woff');
+    font-style: normal;
+    font-weight: 500;
+}
+
+/* bold font weight */
+@font-face {
+    font-family: 'Hubot Sans';
+    src: url(./hubot-sans/Hubot-Sans-Light.woff);
+    font-style: normal;
+    font-style: 700;
+    
+}
